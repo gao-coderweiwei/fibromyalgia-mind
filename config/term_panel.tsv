@@ -1,0 +1,81 @@
+category	term
+pain_somatosensory	chronic pain
+pain_somatosensory	pain
+pain_somatosensory	painful
+pain_somatosensory	noxious
+pain_somatosensory	nociceptive
+pain_somatosensory	unpleasant
+pain_somatosensory	aversive
+pain_somatosensory	pressure
+pain_somatosensory	somatosensory
+pain_somatosensory	primary somatosensory
+pain_somatosensory	secondary somatosensory
+pain_somatosensory	sensory
+pain_somatosensory	tactile
+pain_somatosensory	touch
+pain_somatosensory	body
+pain_somatosensory	interoceptive
+salience_attention	salience
+salience_attention	salience network
+salience_attention	attention
+salience_attention	attentional
+salience_attention	attentional control
+salience_attention	attention network
+salience_attention	dorsal attention
+salience_attention	spatial attention
+salience_attention	selective attention
+salience_attention	sustained attention
+salience_attention	orienting
+salience_attention	awareness
+default_self	default mode
+default_self	self
+default_self	self referential
+default_self	autobiographical
+default_self	autobiographical memory
+default_self	mentalizing
+default_self	theory mind
+default_self	social cognition
+default_self	social
+default_self	person
+default_self	perspective
+emotion_reward	emotion
+emotion_reward	emotional
+emotion_reward	affective
+emotion_reward	emotion regulation
+emotion_reward	anxiety
+emotion_reward	fear
+emotion_reward	threat
+emotion_reward	threatening
+emotion_reward	stress
+emotion_reward	distress
+emotion_reward	reward
+emotion_reward	reward anticipation
+emotion_reward	motivation
+emotion_reward	motivational
+emotion_reward	negative affect
+emotion_reward	depression
+emotion_reward	major depression
+cognitive_control_memory	cognitive control
+cognitive_control_memory	executive
+cognitive_control_memory	executive control
+cognitive_control_memory	executive function
+cognitive_control_memory	working memory
+cognitive_control_memory	memory
+cognitive_control_memory	episodic memory
+cognitive_control_memory	memory retrieval
+cognitive_control_memory	decision
+cognitive_control_memory	decision making
+cognitive_control_memory	inhibition
+cognitive_control_memory	response inhibition
+cognitive_control_memory	conflict
+sensorimotor_reference	motor
+sensorimotor_reference	movement
+sensorimotor_reference	movements
+sensorimotor_reference	action
+sensorimotor_reference	action observation
+sensorimotor_reference	sensorimotor
+sensorimotor_reference	sensorimotor network
+sensorimotor_reference	visual
+sensorimotor_reference	auditory
+sensorimotor_reference	language
+sensorimotor_reference	language comprehension
